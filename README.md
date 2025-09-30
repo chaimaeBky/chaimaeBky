@@ -24,7 +24,7 @@
 - Flask (Python), ASP.NET (C#), REST APIs  
 
 **Databases**  
-- SQL, MySQL, PostgreSQL, SQLite, **Oracle**  
+- SQL, MySQL, PostgreSQL, SQLite, Oracle  
 
 **DevOps / Deployment**  
 - Docker, GitHub Actions (CI/CD), Azure Container Instances, Nginx, Gunicorn  
