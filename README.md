@@ -57,7 +57,15 @@ A full-stack app (React + Flask) that fetches **real-time currency exchange rate
 
 ---
 
-## 📊 GitHub Stats  
+📊 GitHub Highlights
+
+🔹 Built multiple full-stack projects combining React, Flask, AI, and IoT
+
+🔹 Implemented real-time APIs, CI/CD pipelines, and cloud deployment
+
+🔹 Skills demonstrated in projects: Docker, Azure, Raspberry Pi, AI integration
+
+🔹 View all projects on GitHub 
 
 ![Chaimae's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaimaebky&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaebky&layout=compact&theme=tokyonight)  
