@@ -39,7 +39,7 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 [Currency Converter](https://github.com/chaimaebky/currencyConverter)  
+### 🔹 [Currency Converter](https://github.com/chaimaebky/currency-converter)  
 A full-stack app (React + Flask) that fetches **real-time currency exchange rates** from an external API.  
 - 🚀 Deployed with **Docker & Azure Container Instances**  
 - 🔧 CI/CD pipeline using **GitHub Actions**  
