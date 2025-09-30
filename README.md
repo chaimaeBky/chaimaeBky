@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on:  and **Full-Stack Web Projects**  
+- 🔭 Currently working on:  **Full-Stack Web Projects**  
 - 🌱 Learning: **Advanced Flask + React integration, Machine Learning fundamentals, and DevOps practices**  
 - 💼 Actively seeking: **6-month internship (PFE – Graduation Project) starting february 2026** in **Software Engineering, Full-Stack Development, AI, or Cloud Computing**  
 - ⚡ Fun fact: I love creating projects that combine **hardware, software, and AI** to make life smarter and more efficient.  
